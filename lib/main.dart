@@ -27,7 +27,7 @@ class HomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: const [
             Text(
-              'Talal Nawaf Al-Enzi',
+              'Talal Nawaf Al-anazi',
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.bold,
@@ -35,7 +35,7 @@ class HomePage extends StatelessWidget {
             ),
             SizedBox(height: 10),
             Text(
-              'Academic ID: 123456789',
+              'Academic ID: 443229412',
               style: TextStyle(
                 fontSize: 18,
               ),
